@@ -1,10 +1,6 @@
 # WIFI-Bruteforce-By-Jake
 
-   .               .
- .´  ·  .     .  ·  `.  WIFI Bruteforce
- :  :  :  (¯)  :  :  :  Brute Force WIFI Passwords For Windows And Linux
- `.  ·  ` /¯\ ´  ·  .´  Maintained by Jake
-   `     /¯¯¯\     ´
+Created by Jacob 05/03/2022
    
 # Running
 
