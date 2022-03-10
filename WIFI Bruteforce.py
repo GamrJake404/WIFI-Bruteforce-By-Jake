@@ -13,7 +13,7 @@ try:
     import time
 
     # Command:
-    #    python "WIFI Bruteforce.py" -s "Orange-828E" -w "wifi passwords.txt"
+    #    python "WIFI Bruteforce.py" -s "WIFI" -w "passwords.txt"
 
     os.system("cls")
     print("Loading Program...")
